@@ -1,6 +1,6 @@
 # Links : 
 
-* Github : 
-* Github Pages : 
-* Netlify : 
-* Vercel : 
+* Github : https://github.com/Codalicio/tribute-page
+* Github Pages : https://codalicio.github.io/tribute-page/
+* Netlify : https://jocular-cendol-96eeb0.netlify.app/
+* Vercel : https://tribute-page-blond-kappa.vercel.app/
